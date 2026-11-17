@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run tests",
+      "type": "shell",
+      "command": "gcc -std=c99 -Wall -Wextra code-examples-code-conventions.c -o pract1.exe; if ($?) { ./pract1.exe }",
+      "options": { "cwd": "${workspaceFolder}/Pract1/pzpi-24-5-shevchun-maksym-pract1", "shell": { "executable": "powershell.exe" } },
+      "problemMatcher": ["$gcc"],
+      "group": { "kind": "build", "isDefault": true }
+    }
+  ]
+}

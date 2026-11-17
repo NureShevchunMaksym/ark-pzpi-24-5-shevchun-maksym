@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/PZ1_APK/ark-pzpi-24-5-shevchun-maksym/Pract1/pzpi-24-5-shevchun-maksym-pract1/src",
+      "program": "d:/PZ1_APK/ark-pzpi-24-5-shevchun-maksym/Pract1/pzpi-24-5-shevchun-maksym-pract1/src/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
