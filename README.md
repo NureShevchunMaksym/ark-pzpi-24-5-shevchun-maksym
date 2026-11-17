@@ -5,3 +5,7 @@
 Шевчун Максим
 
 Правила оформлення програмного коду мовою C
+
+Методи рефакторингу коду: Replace Magic Number with Symbolic Constant, Rename Method, Remove Parameter
+
+Програмна система для моніторингу свіжості продуктів у холодильнику
