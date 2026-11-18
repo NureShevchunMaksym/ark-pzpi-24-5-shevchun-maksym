@@ -6,6 +6,6 @@
 
 Правила оформлення програмного коду мовою C
 
-Методи рефакторингу коду: Replace Magic Number with Symbolic Constant, Rename Method, Remove Parameter
+Методи рефакторингу коду: Replace Magic Number with Symbolic Constant, Remove Control Flag, Substitute Algorithm
 
 Програмна система для моніторингу свіжості продуктів у холодильнику
